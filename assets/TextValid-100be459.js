@@ -1,0 +1,1 @@
+import{_ as o}from"./index-e058a960.js";import{as as e,o as a,aT as s,n}from"./preload-helper-9e0646ca.js";const r={name:"TextValid",props:{valid:{type:String,default:""}}},c={key:0,class:"mt-2 text-danger-500 block text-sm"};function i(l,d,t,m,_,p){return e(),a("div",null,[t.valid?(e(),a("span",c,s(t.valid),1)):n("",!0)])}const u=o(r,[["render",i]]);export{u as T};
