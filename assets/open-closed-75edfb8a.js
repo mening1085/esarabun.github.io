@@ -1,0 +1,1 @@
+import{$ as t,au as l}from"./preload-helper-f37a9bec.js";let o=Symbol("Context");var r=(n=>(n[n.Open=0]="Open",n[n.Closed=1]="Closed",n))(r||{});function i(){return u()!==null}function u(){return t(o,null)}function p(n){l(o,n)}export{p as c,i as f,r as l,u as p};
